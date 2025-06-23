@@ -41,3 +41,36 @@ The primary design goals of the **airbnb-clone-project** are to:
 - Responsive navigation and layout structure
 - Smooth transitions between pages and states
 - Minimalist checkout process with clear call-to-actions
+
+
+## 👥 Project Roles and Responsibilities
+
+In this project, we adopt a collaborative team structure to simulate a real-world development environment. Each role contributes uniquely to the success of the Airbnb Clone Project.
+
+
+Project Manager - Oversees the entire project timeline and ensures milestones are met. 
+                - Coordinates communication between all team members. 
+                - Manages tasks, blockers, and progress tracking via tools like Trello or Jira. 
+Frontend Developers - Build the user interface using React and Tailwind CSS. 
+                    - Implement responsive design and UI components. 
+                    - Integrate frontend with backend APIs. 
+                    - Ensure consistency with the UI/UX design plans. 
+Backend Developers - Design and develop APIs to handle booking, authentication, and property data.
+                   - Manage database schema and interactions. 
+                   - Ensure secure and scalable backend architecture. 
+Designers (UI/UX)- Create wireframes, mockups, and final UI prototypes.
+                 - Define the design system (colors, fonts, spacing). 
+                 - Ensure user-centered design principles are followed. 
+QA/Testers - Write and execute test cases to ensure the app is bug-free. 
+            - Conduct usability testing to identify UX issues. 
+            - Perform regression, integration, and end-to-end testing. 
+DevOps Engineers - Set up CI/CD pipelines for automated testing and deployment. 
+                  - Manage development, staging, and production environments. 
+                  - Monitor application performance and reliability. 
+Product Owner - Defines the product vision and feature requirements. 
+               - Prioritizes features and maintains the product backlog. 
+               - Acts as the bridge between the development team and stakeholders. 
+Each team member works collaboratively and is empowered to suggest improvements, identify blockers, and maintain high-quality standards throughout the development process.
+
+
+
