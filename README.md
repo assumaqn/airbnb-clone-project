@@ -74,3 +74,21 @@ Each team member works collaboratively and is empowered to suggest improvements,
 
 
 
+##UI Component Patterns
+
+To ensure a modular and maintainable frontend architecture, we are adopting a **component-based design approach**. This allows us to reuse, test, and maintain UI elements more efficiently throughout the Airbnb Clone project.
+
+### Planned Components
+
+Navbar - A responsive navigation bar that includes logo, navigation links (e.g., Explore, Wishlist, Login), and a hamburger menu for mobile devices. It stays fixed at the top and adapts based on screen size. 
+Property Card - A reusable component used in the property listing view. It displays key information such as property image, title, price per night, location, and rating. Clickable for navigation to detailed view. |
+Footer - A global footer with links to pages like About, Contact, Privacy Policy, and social media icons. It also contains copyright information. |
+Search Bar - A location and date input component integrated into the homepage or navbar, enabling users to search for available properties. |
+Booking Summary - A component that shows pricing breakdown, stay duration, and total amount on the checkout page. It will be styled for clarity and responsiveness. |
+Image Gallery - An interactive image slider component to showcase multiple photos in the property details view, with support for lightbox preview. |
+Button - Custom-styled reusable button components for consistency across actions like “Book Now,” “Login,” and “Save to Wishlist.” |
+
+These components will follow best practices in accessibility, reusability, and responsive design, and will be organized into a consistent component folder structure in the codebase.
+
+
+
